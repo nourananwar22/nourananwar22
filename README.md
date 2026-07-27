@@ -29,50 +29,63 @@ I love exploring data, uncovering insights, and leveraging AI & Data Analytics t
 
 <br/>
 
-### 🔨 Languages and Tools:
-
 ## 🔨 Languages and Tools:
 
 <a href="https://www.python.org/" target="_blank">
-  <img align="left" alt="Python" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="left" alt="Python" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </a>
 
 <a href="https://powerbi.microsoft.com/" target="_blank">
-  <img align="left" alt="Power BI" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" />
+  <img align="left" alt="Power BI" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg">
 </a>
 
 <a href="https://www.tableau.com/" target="_blank">
-  <img align="left" alt="Tableau" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" />
+  <img align="left" alt="Tableau" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg">
 </a>
 
 <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
-  <img align="left" alt="Excel" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+  <img align="left" alt="Excel" height="42px" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png">
 </a>
 
 <a href="https://www.mysql.com/" target="_blank">
-  <img align="left" alt="SQL" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="left" alt="SQL" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </a>
 
 <a href="https://pandas.pydata.org/" target="_blank">
-  <img align="left" alt="Pandas" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <img align="left" alt="Pandas" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
 </a>
 
 <a href="https://numpy.org/" target="_blank">
-  <img align="left" alt="NumPy" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  <img align="left" alt="NumPy" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
 </a>
 
 <a href="https://scikit-learn.org/" target="_blank">
-  <img align="left" alt="Scikit-learn" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
+  <img align="left" alt="Scikit-learn" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg">
+</a>
+
+<a href="https://www.tensorflow.org/" target="_blank">
+  <img align="left" alt="TensorFlow" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
 </a>
 
 <a href="https://git-scm.com/" target="_blank">
-  <img align="left" alt="Git" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="left" alt="Git" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </a>
 
 <a href="https://github.com/" target="_blank">
-  <img align="left" alt="GitHub" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="left" alt="GitHub" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </a>
 
+<br><br>
+
+## 📊 GitHub Stats:
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" alt="Nouran's GitHub Stats">
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" alt="Top Languages">
+</p>
 <br><br>
 
 ## 📊 Github Stats
