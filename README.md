@@ -40,7 +40,7 @@ I love exploring data, uncovering insights, and leveraging AI & Data Analytics t
 </a>
 
 <a href="https://www.tableau.com/" target="_blank">
-  <img align="left" alt="Tableau" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg">
+  <img align="left" alt="Tableau" height="42px" src="https://cdn.simpleicons.org/tableau">
 </a>
 
 <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
